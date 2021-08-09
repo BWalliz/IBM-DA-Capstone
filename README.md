@@ -1,4 +1,4 @@
-# IBM-DA-Capstone
+# IBM DA Capstone
 This repository contains the Capstone Project for the IBM Data Analyst Certificate by Coursera.
 
 This repository contains the raw data, jupyter notebooks under Cheat Sheets folder, and visualizations of the results.
